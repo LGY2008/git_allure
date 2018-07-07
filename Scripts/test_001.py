@@ -5,3 +5,6 @@ class Test_001():
     def test_002(self):
         print("test002被执行")
         assert 0
+    def test_003(self):
+        print("test003执行")
+        assert 1
