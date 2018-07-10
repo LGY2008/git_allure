@@ -8,3 +8,6 @@ class Test_001():
     def test_003(self):
         print("test003执行")
         assert 1
+    def test_004(self):
+        print("test003执行")
+        assert 0
